@@ -1,7 +1,7 @@
 ---
 title: "[Library] RequireJS 기본 사용방법 및 AMD(Asynchronous Module Definition)에 대해서"
 writer: chanho
-date: 2024-03-02 00:05:00 +0900
+date: 2024-03-02 00:15:00 +0900
 categories: [Frontend, JavaScript]
 tags: [frontend, javascript, library]
 ---
