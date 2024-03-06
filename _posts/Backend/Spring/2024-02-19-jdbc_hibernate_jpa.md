@@ -1,5 +1,5 @@
 ---
-title: "[Spring] JDBC, Hibernate, JPA 기초"
+title: "[SpringDB] JDBC, Hibernate, JPA 기초"
 writer: chanho
 date: 2024-02-19 23:00:00 +0900
 categories: [Backend, Spring]
