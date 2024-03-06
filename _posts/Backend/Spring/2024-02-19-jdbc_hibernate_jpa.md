@@ -3,7 +3,7 @@ title: "[Spring] JDBC, Hibernate, JPA 기초"
 writer: chanho
 date: 2024-02-19 23:00:00 +0900
 categories: [Backend, Spring]
-tags: [backend, spring]
+tags: [backend, spring, database]
 ---
 
 # JDBC (Java Database Connectivity)
