@@ -14,9 +14,9 @@ timezone: Asia/Seoul # << check
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chanho # the main title # << check
+title: Chanho
 
-tagline: As a developer, i Strive to be more perfect 🧗‍♂️ # << check 부연 설명
+tagline: As a developer, i Strive to be more perfect 🧗‍♂️
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -123,10 +123,9 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
-
-# The base URL of your site
 baseurl: ""
+
+paginate: 8
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -202,4 +201,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
