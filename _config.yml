@@ -38,7 +38,7 @@ social:
   email: joc1245@gmail.com # change to your email address # << check
   links: # << check
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/chanhocode # change to your twitter homepage
     #- https://github.com/chanhocode # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -123,7 +123,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10 # << check
+paginate: 10
 
 # The base URL of your site
 baseurl: ""
