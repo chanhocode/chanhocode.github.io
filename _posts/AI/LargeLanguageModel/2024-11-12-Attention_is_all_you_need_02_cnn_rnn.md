@@ -14,7 +14,7 @@ tags: [ai, llm]
 
 이미지의 Raw Input을 그대로 받으므로 공간적/지역적 정보를 유지한채 Feature들의 계층을 빌드업 한다.
 
-![Typical_cnn](https://github.com/user-attachments/assets/209f3753-a477-4452-af4f-0dddcf1d7ce3)
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/209f3753-a477-4452-af4f-0dddcf1d7ce3">
 _Image Source: [wekipedia_cnn](https://en.wikipedia.org/wiki/Convolutional_neural_network)_
 
 - `Convolutional Layer`: 합성곱 연산을 수행하여 신경망의 복잡도를 낮추는 층
@@ -30,7 +30,7 @@ _Image Source: [wekipedia_cnn](https://en.wikipedia.org/wiki/Convolutional_neura
 
 ## Convolutional
 
-![Convolutional_neural_network,_convolution_worked_example](https://github.com/user-attachments/assets/508f3b1b-9bad-49f4-b1d1-2411b0523b50)
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/508f3b1b-9bad-49f4-b1d1-2411b0523b50">
 _Image Source: [wekipedia_cnn](https://en.wikipedia.org/wiki/Convolutional_neural_network)_
 
 > 입력 데이터는 Filter 행렬과 합성곱을 수행하며 이미지 차원이 축소되고(Padding을 안한다면) Featrue Map이 생성된다.
@@ -54,7 +54,7 @@ _Image Source: [wekipedia_cnn](https://en.wikipedia.org/wiki/Convolutional_neura
 
 - 입력과 출력을 시퀀스 단위로 처리하는 딥러닝 모델이다.
 
-![1280px-Recurrent_neural_network_unfold svg](https://github.com/user-attachments/assets/9bbed6cb-d1aa-4d3f-b5c2-dc113ce68ba6)
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/9bbed6cb-d1aa-4d3f-b5c2-dc113ce68ba6">
 _Image Source: [wekipedia_rnn](https://en.wikipedia.org/wiki/Recurrent_neural_network)_
 
 > 위 이미지는 기본적인 순환신경망의 나타낸다. 위 그림을 보면 RNN은 은닉층의 노드에서 활성 함수를 통해 출력된 값이 출력층 방향으로 보내면서도 다시 은닉층 노드의 다음 계산의 입력으로 보내는 특징을 갖고 있다.(일종의 메모리 역할을 수행할 수 있다.)
