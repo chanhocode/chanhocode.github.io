@@ -1,7 +1,7 @@
 ---
 title: "[LMM] Attention is All You Need를 읽어보자(3)_Seq2Seq"
 writer: chanho
-date: 2024-11-13 22:08:00 +0900
+date: 2024-11-13 22:05:00 +0900
 categories: [AI, LargeLanguageModel]
 tags: [ai, llm]
 ---
