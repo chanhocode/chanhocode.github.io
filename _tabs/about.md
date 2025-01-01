@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![header240208](https://github.com/chanhocode/chanhocode/assets/105937460/88de4e5c-27eb-4548-b6c1-eeefdf2aa569)
+<img width="100%" alt="image" src="https://github.com/chanhocode/chanhocode/assets/105937460/88de4e5c-27eb-4548-b6c1-eeefdf2aa569">
 
 🌏 <b>Work</b>
 
@@ -15,10 +15,13 @@ order: 4
   - Key Responsibilities: Backend Development, LLM Model Training and Serving, Retrieval-Augmented Generation (RAG), and Workforce Management.
 
 💡 <b>Education & Certificate</b>
+
 - 순천향대학교 사물인터넷학과 학사 졸업
 - 정보처리기사
 
-<div align=center><h2>📚 STACKS</h2></div>
+<div align=center>
+
+<h2>📚 STACKS</h2></div>
 
 <div align="center">
 
