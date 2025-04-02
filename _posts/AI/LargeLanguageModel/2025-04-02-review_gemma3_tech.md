@@ -67,24 +67,24 @@ tags: [ai, llm]
 
 <div style="flex: 1; min-width: 300px;">
 
-#### 주요 개선
+<h4>주요 개선</h4>
 
-- **Grouped-Query Attention (GQA)** 도입  
-- **QK-norm** 채택으로 안정성 향상  
-- **5:1 비율의 Local:Global attention layer 구성**으로 메모리 절감  
-  - *Local Attention*: 근처 토큰만 참조 → 메모리 효율적  
-  - *Global Attention*: 전체 문맥 참조 → 계산량 많음  
-  - **5:1 interleaving** 구조: 대부분 Local, 가끔 Global로 전체 이해 유지  
-- **128K 긴 문맥 처리** 지원
+- <b>Grouped-Query Attention (GQA)</b> 도입  
+- <b>QK-norm</b> 채택으로 안정성 향상  
+- <b>5:1 비율의 Local:Global attention layer 구성</b>으로 메모리 절감  
+  - <i>Local Attention</i>: 근처 토큰만 참조 → 메모리 효율적  
+  - <i>Global Attention</i>: 전체 문맥 참조 → 계산량 많음  
+  - <i>5:1 interleaving</i> 구조: 대부분 Local, 가끔 Global로 전체 이해 유지  
+- <b>128K 긴 문맥 처리</b> 지원
 
 </div>
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
-#### 구조 개요
-> **Transformer 기반 decoder-only 구조** 유지  
+<h4>구조 개요</h4>
+: <b>Transformer 기반 decoder-only 구조</b> 유지  
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/8edeed13-509c-44d3-bae1-2080a3f51fdf">
-_Image Source: [Google](https://arxiv.org/abs/2503.19786)_
+<small><i>_Image Source: [Google](https://arxiv.org/abs/2503.19786)_</i></small>
 
 </div>
 
@@ -108,16 +108,18 @@ _Image Source: [Google](https://arxiv.org/abs/2503.19786)_
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/90a60782-9662-40e3-a0d0-4ebdeca7801a">
-_Image Source: [Google](https://arxiv.org/abs/2503.19786)_
+<small><i>_Image Source: [Google](https://arxiv.org/abs/2503.19786)_</i></small>
 
 </div>
 <div style="flex: 1; min-width: 300px;">
 
-- **int4, SFP8 등 다양한 양자화 포맷** 지원
-- **양자화 인식 학습(QAT)** 수행 (5,000 스텝 fine-tuning)
+<ul>
+  <li><strong>int4, SFP8 등 다양한 양자화 포맷</strong> 지원</li>
+  <li><strong>양자화 인식 학습(QAT)</strong> 수행 (5,000 스텝 fine-tuning)</li>
+</ul>
 
 </div>
 
@@ -139,14 +141,19 @@ _Image Source: [Google](https://arxiv.org/abs/2503.19786)_
 <div style="flex: 1; min-width: 300px;">
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/d9bdf330-1f14-498a-8fec-2e3f4e7cef8c">
-_Image Source: [Google](https://arxiv.org/abs/2503.19786)_
+<small><i>_Image Source: [Google](https://arxiv.org/abs/2503.19786)_</i></small>
 
 </div>
 <div style="flex: 1; min-width: 300px;">
 
-- **포맷 규칙**:
-    - 문장 시작에 `[BOS]` 필수 (`add_bos=True`)
-    - PT 모델: `<eos>` / IT 모델: `<end_of_turn>` 사용
+<ul>
+  <li><strong>포맷 규칙</strong>:
+    <ul>
+      <li>문장 시작에 <code>[BOS]</code> 필수 (<code>add_bos=True</code>)</li>
+      <li>PT 모델: <code>&lt;eos&gt;</code> / IT 모델: <code>&lt;end_of_turn&gt;</code> 사용</li>
+    </ul>
+  </li>
+</ul>
 
 </div>
 
@@ -164,13 +171,13 @@ _Image Source: [Google](https://arxiv.org/abs/2503.19786)_
 <div style="flex: 1; min-width: 300px;">
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/fd00c320-5996-4213-beaa-605c80a80f73">
-_Image Source: [Google](https://arxiv.org/abs/2503.19786)_
+<small><i>_Image Source: [Google](https://arxiv.org/abs/2503.19786)_</i></small>
 
 </div>
 <div style="flex: 1; min-width: 300px;">
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/223e027f-fe90-4a85-a903-4f89dbed6174">
-_Image Source: [Google](https://arxiv.org/abs/2503.19786)_
+<small><i>_Image Source: [Google](https://arxiv.org/abs/2503.19786)_</i></small>
 
 </div>
 
