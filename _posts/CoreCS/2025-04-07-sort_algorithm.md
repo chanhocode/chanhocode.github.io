@@ -1,7 +1,7 @@
 ---
 title: "[Algorithm] 6가지 정렬 알고리즘 한번에 끝내기"
 writer: chanho
-date: 2025-04-07 23:00:00 +0900
+date: 2025-04-07 22:00:00 +0900
 categories: [CoreCS, Algorithm]
 tags: [cs, algorithm, theory]
 ---
