@@ -1,5 +1,5 @@
 ---
-title: “[Algorithm] 탐색 알고리즘 한번에 끝내기”
+title: "[Algorithm] 탐색 알고리즘 한번에 끝내기"
 writer: chanho
 date: 2025-04-12 21:00:00 +0900
 categories: [CoreCS, Algorithm]
@@ -68,6 +68,7 @@ int main() {
 | 인접 리스트 | O(V + E) | O(degree) | 빠름 | 희소 그래프에 적합 | 연결 여부 확인이 느릴 수 있음 |
 | 인접 행렬 | O(V^2) | O(1) | O(V) | 연결 여부 확인 빠름 | 공간 낭비 가능 |
 | 간선 리스트 | O(E) | O(E) | 느림 | MST, 정렬이 필요한 알고리즘 | 직접 탐색 비효율적 |
+
 1. 인접 리스트(Adjacency List)
 
 > 각 정점에 연결된 정점들의 리스트를 저장
