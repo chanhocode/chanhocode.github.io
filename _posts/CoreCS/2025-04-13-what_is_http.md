@@ -1,5 +1,5 @@
 ---
-title: “[HTTP] HTTP 기본 알아보기”
+title: [HTTP] HTTP 기본 알아보기
 writer: chanho
 date: 2025-04-13 20:28:00 +0900
 categories: [CoreCS, Network]
