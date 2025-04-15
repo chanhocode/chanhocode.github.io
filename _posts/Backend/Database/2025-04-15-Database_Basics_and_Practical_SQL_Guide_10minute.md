@@ -1,5 +1,5 @@
 ---
-title: [TIL] 데이터베이스 기초와 SQL 실전 활용 정리 :10-Minute SQL"
+title: "[TIL] 데이터베이스 기초와 SQL 실전 활용 정리 :10-Minute SQL"
 writer: chanho
 date: 2025-04-15 09:30:00 +0900
 categories: [Backend, Database]
