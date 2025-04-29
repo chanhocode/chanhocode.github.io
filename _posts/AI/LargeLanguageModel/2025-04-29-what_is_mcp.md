@@ -1,7 +1,7 @@
 ---
 title: "Model Context Protocol: MCP 핵심 정리"
 writer: chanho
-date: 2025-04-29 16:30:00 +0900
+date: 2025-04-29 14:10:00 +0900
 categories: [AI, LargeLanguageModel]
 tags: [ai, llm, mcp]
 ---
