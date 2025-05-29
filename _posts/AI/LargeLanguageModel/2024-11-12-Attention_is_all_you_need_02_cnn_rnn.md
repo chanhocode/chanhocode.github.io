@@ -1,9 +1,9 @@
 ---
-title: "[LMM] Attention is All You Need를 읽어보자(2)_CNN 과 RNN에 대해서"
+title: "[Paper] Attention is All You Need를 읽어보자(2)_CNN 과 RNN에 대해서"
 writer: chanho
 date: 2024-11-12 22:11:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, llm]
+tags: [ai, llm, paper]
 ---
 
 > 어제 간단하게 Attention is All You Need를 읽으며 Intro에서 사전 지식으로 간단하게 알면 좋을 거 같은 몇몇개의 키워드를 추렸다. 그중에서 오늘은 'RNN'과 'CNN'에 대해 간단하게 살펴보고자 한다.
