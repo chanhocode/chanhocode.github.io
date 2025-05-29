@@ -1,9 +1,9 @@
 ---
-title: "[LMM] Attention is All You Need를 읽어보자(1)"
+title: "[Paper] Attention is All You Need를 읽어보자(1)"
 writer: chanho
 date: 2024-11-11 23:00:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, llm]
+tags: [ai, llm, paper]
 ---
 
 > 회사에 들어와 약 반년이 안되는 시간동안 `Large Vision Language Model`을 연구 중 이다. 프로젝트로 인해 달리기만 하다보니 기초가 탄탄하지 못하다는 생각이 들어 처음 읽어 보는 건 아니지만, 근본 논문인 'Attention is All You Need' 부터 자세히 읽어보고자 한다.
