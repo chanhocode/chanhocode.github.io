@@ -1,9 +1,9 @@
 ---
-title: "[LMM] Attention is All You Need를 읽어보자(3)_Seq2Seq"
+title: "[Paper] Attention is All You Need를 읽어보자(3)_Seq2Seq"
 writer: chanho
 date: 2024-11-13 22:05:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, llm]
+tags: [ai, llm, paper]
 ---
 
 > `Transformer` 와 `Seq2Seq`는 모두 순차적 데이터의 입력과 출력을 처리하는 데 사용되지만, 구조와 작동에서 몇 가지 중요한 차이점이 있다. 오늘은 Seq2Seq는 무엇이고 Transformer과의 차이는 무엇인지에 대해 간단하게 알아보고자 한다.
