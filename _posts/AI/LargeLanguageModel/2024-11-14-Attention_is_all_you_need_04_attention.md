@@ -1,9 +1,9 @@
 ---
-title: "[LMM] Attention is All You Need를 읽어보자(4)_Attention 메커니즘이란?"
+title: "[Paper] Attention is All You Need를 읽어보자(4)_Attention 메커니즘이란?"
 writer: chanho
 date: 2024-11-14 21:45:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, llm]
+tags: [ai, llm, paper]
 ---
 
 > 오늘은 마지막 사전지식으로 `Attention Mechanism`에 대해 공유하고자 한다. Transformer는 Attention mechanism에 크게 의존한다. 이로 인해 기존의 RNN 기반 모델보다 훨씬 효율적이고 강력한 성능을 발휘할 수 있게 되었다. 특히, Self-Attention은 Transformer의 핵심 요소로, 모델이 시퀀스 내에서 중요한 부분을 선택적으로 강조할 수 있도록 해준다.
