@@ -1,9 +1,9 @@
 ---
-title: "[LMM] Attention is All You Need를 읽어보자(5)_Model Architecture"
+title: "[Paper] Attention is All You Need를 읽어보자(5)_Model Architecture"
 writer: chanho
 date: 2024-11-25 21:58:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, llm]
+tags: [ai, llm, paper]
 ---
 
 > 오늘은 일이 많아 작성하지 못하고 있던 'Attention is All You Need' 논문의 Model Architecture 부분을 리뷰 하고자 한다.
