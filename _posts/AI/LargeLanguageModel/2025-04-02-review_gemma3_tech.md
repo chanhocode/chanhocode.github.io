@@ -3,7 +3,7 @@ title: "[Paper] Gemma 3 Technical Report 핵심 요약"
 writer: chanho
 date: 2025-04-02 12:11:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, llm]
+tags: [ai, llm, paper]
 ---
 
 # Gemma3 Paper
