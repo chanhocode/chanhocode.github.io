@@ -1,5 +1,5 @@
 ---
-title: "[RAG] Self-Routing RAG Paper 리뷰"
+title: "[Paper] Self-Routing RAG Paper 리뷰"
 writer: chanho
 date: 2025-04-21 16:30:00 +0900
 categories: [AI, LargeLanguageModel]
