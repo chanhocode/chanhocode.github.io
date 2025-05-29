@@ -5,8 +5,22 @@ date: 2025-05-29 14:30:00 +0900
 categories: [AI, LargeLanguageModel]
 tags: [ai, llm, paper]
 ---
+[Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
 
-## "Chain of Draft" - LLM, 더 적게 쓰고 더 빨리 생각하다
+Large Language Models (LLMs) have demonstrated remarkable performance in solving complex reasoning tasks through mechanisms like
+Chain-of-Thought (CoT) prompting, which emphasizes verbose, step-by-step reasoning. However, humans typically employ a more efficient strategy: drafting concise intermediate
+thoughts that capture only essential information. In this work, we propose Chain of Draft
+(CoD), a novel paradigm inspired by human
+cognitive processes, where LLMs generate minimalistic yet informative intermediate reasoning outputs while solving tasks. By reducing verbosity and focusing on critical insights,
+CoD matches or surpasses CoT in accuracy
+while using as little as only 7.6% of the tokens, significantly reducing cost and latency
+across various reasoning tasks. Our code and
+data are available at https://github.com/
+sileix/chain-of-draft.
+
+[Silei Xu](https://arxiv.org/search/cs?searchtype=author&query=Xu,+S), [Wenhao Xie](https://arxiv.org/search/cs?searchtype=author&query=Xie,+W), [Lingxiao Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+L), [Pengcheng He](https://arxiv.org/search/cs?searchtype=author&query=He,+P)
+
+------
 
 > "Chain of Draft (CoD)"는 대규모 언어 모델(LLM)이 복잡한 추론 작업을 수행할 때, 장황한 단계별 과정을 거치는 기존의 "Chain-of-Thought (CoT)" 방식 대신, 인간처럼 간결하고 핵심적인 정보만 담은 초안(draft)을 생성하며 문제를 해결하는 새로운 패러다임을 제시합니다. 이를 통해 CoD는 CoT와 동등하거나 더 나은 정확도를 유지하면서도 토큰 사용량을 현저히 줄여(최소 7.6% 수준) 비용과 지연 시간을 크게 단축시킨다고 논문에 나와있습니다. 해당 논문에서의 목표는  LLM의 추론 과정에서 불필요한 장황함을 줄이고, 인간의 효율적인 사고방식을 모방하여 최소한의 정보로 정확한 결과를 도출함으로써, LLM의 실제 적용에서의 비용 효율성과 응답 속도를 개선하는 것을 목표로 합니다.
 > 
