@@ -3,7 +3,7 @@ title: "[Paper] 다국어 임베딩 모델 BGE-M3 리뷰 및 분석"
 writer: chanho
 date: 2025-06-04 13:30:00 +0900
 categories: [AI, LargeLanguageModel]
-tags: [ai, embed, paper]
+tags: [ai, embedding, paper]
 ---
 
 [BGE-M3_arxiv](https://arxiv.org/pdf/2402.03216)
