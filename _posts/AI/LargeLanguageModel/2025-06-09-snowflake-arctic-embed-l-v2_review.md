@@ -1,5 +1,5 @@
 ---
-## title: "[Paper] 다국어 임베딩 모델 snowflake-arctic-embed-l-v2.0 리뷰 및 분석"
+title: "[Paper] 다국어 임베딩 모델 snowflake-arctic-embed-l-v2.0 리뷰 및 분석"
 writer: chanho
 date: 2025-06-09 10:10:00 +0900
 categories: [AI, LargeLanguageModel]
