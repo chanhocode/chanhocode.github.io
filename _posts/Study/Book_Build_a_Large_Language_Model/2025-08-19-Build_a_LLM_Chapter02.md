@@ -1,5 +1,5 @@
 ---
-## title: "[Study] Build a Larage Language Model 02: Working with text data"
+title: "[Study] Build a Larage Language Model 02: Working with text data"
 writer: chanho
 date: 2025-08-19 21:30:00 +0900
 categories: [Study, Book_Build_a_Large_Language_Model]
